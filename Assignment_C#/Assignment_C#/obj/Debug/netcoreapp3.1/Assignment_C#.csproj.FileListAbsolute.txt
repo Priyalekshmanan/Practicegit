@@ -1,0 +1,13 @@
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\obj\Debug\netcoreapp3.1\Assignment_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\obj\Debug\netcoreapp3.1\Assignment_C#.AssemblyInfoInputs.cache
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\obj\Debug\netcoreapp3.1\Assignment_C#.AssemblyInfo.cs
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\obj\Debug\netcoreapp3.1\Assignment_C#.csproj.CoreCompileInputs.cache
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\bin\Debug\netcoreapp3.1\Assignment_C#.exe
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\bin\Debug\netcoreapp3.1\Assignment_C#.deps.json
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\bin\Debug\netcoreapp3.1\Assignment_C#.runtimeconfig.json
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\bin\Debug\netcoreapp3.1\Assignment_C#.runtimeconfig.dev.json
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\bin\Debug\netcoreapp3.1\Assignment_C#.dll
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\bin\Debug\netcoreapp3.1\Assignment_C#.pdb
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\obj\Debug\netcoreapp3.1\Assignment_C#.dll
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\obj\Debug\netcoreapp3.1\Assignment_C#.pdb
+D:\assignment\project\vs\RM\Assignment_C#\Assignment_C#\obj\Debug\netcoreapp3.1\Assignment_C#.genruntimeconfig.cache

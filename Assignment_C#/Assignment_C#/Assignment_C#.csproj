@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Assignment_C_</RootNamespace>
+    <StartupObject>Assignment_C_.Qn18</StartupObject>
+  </PropertyGroup>
+
+</Project>
