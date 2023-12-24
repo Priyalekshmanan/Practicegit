@@ -1,0 +1,13 @@
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\obj\Debug\netcoreapp3.1\StringManipulatioin.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\obj\Debug\netcoreapp3.1\StringManipulatioin.AssemblyInfoInputs.cache
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\obj\Debug\netcoreapp3.1\StringManipulatioin.AssemblyInfo.cs
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\obj\Debug\netcoreapp3.1\StringManipulatioin.csproj.CoreCompileInputs.cache
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\bin\Debug\netcoreapp3.1\StringManipulatioin.exe
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\bin\Debug\netcoreapp3.1\StringManipulatioin.deps.json
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\bin\Debug\netcoreapp3.1\StringManipulatioin.runtimeconfig.json
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\bin\Debug\netcoreapp3.1\StringManipulatioin.runtimeconfig.dev.json
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\bin\Debug\netcoreapp3.1\StringManipulatioin.dll
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\bin\Debug\netcoreapp3.1\StringManipulatioin.pdb
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\obj\Debug\netcoreapp3.1\StringManipulatioin.dll
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\obj\Debug\netcoreapp3.1\StringManipulatioin.pdb
+D:\assignment\project\vs\RM\StringManipulatioin\StringManipulatioin\obj\Debug\netcoreapp3.1\StringManipulatioin.genruntimeconfig.cache
