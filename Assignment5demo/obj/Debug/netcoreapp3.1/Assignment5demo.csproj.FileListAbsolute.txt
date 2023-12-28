@@ -1,0 +1,13 @@
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\bin\Debug\netcoreapp3.1\Assignment5demo.exe
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\bin\Debug\netcoreapp3.1\Assignment5demo.deps.json
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\bin\Debug\netcoreapp3.1\Assignment5demo.runtimeconfig.json
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\bin\Debug\netcoreapp3.1\Assignment5demo.runtimeconfig.dev.json
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\bin\Debug\netcoreapp3.1\Assignment5demo.dll
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\bin\Debug\netcoreapp3.1\Assignment5demo.pdb
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\obj\Debug\netcoreapp3.1\Assignment5demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\obj\Debug\netcoreapp3.1\Assignment5demo.AssemblyInfoInputs.cache
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\obj\Debug\netcoreapp3.1\Assignment5demo.AssemblyInfo.cs
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\obj\Debug\netcoreapp3.1\Assignment5demo.csproj.CoreCompileInputs.cache
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\obj\Debug\netcoreapp3.1\Assignment5demo.dll
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\obj\Debug\netcoreapp3.1\Assignment5demo.pdb
+D:\assignment\project\vs\RM\Assignment_5\Assignment5demo\obj\Debug\netcoreapp3.1\Assignment5demo.genruntimeconfig.cache
