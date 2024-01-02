@@ -1,0 +1,13 @@
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\bin\Debug\netcoreapp3.1\Day6_CollectionAssignment.exe
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\bin\Debug\netcoreapp3.1\Day6_CollectionAssignment.deps.json
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\bin\Debug\netcoreapp3.1\Day6_CollectionAssignment.runtimeconfig.json
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\bin\Debug\netcoreapp3.1\Day6_CollectionAssignment.runtimeconfig.dev.json
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\bin\Debug\netcoreapp3.1\Day6_CollectionAssignment.dll
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\bin\Debug\netcoreapp3.1\Day6_CollectionAssignment.pdb
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\obj\Debug\netcoreapp3.1\Day6_CollectionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\obj\Debug\netcoreapp3.1\Day6_CollectionAssignment.AssemblyInfoInputs.cache
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\obj\Debug\netcoreapp3.1\Day6_CollectionAssignment.AssemblyInfo.cs
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\obj\Debug\netcoreapp3.1\Day6_CollectionAssignment.csproj.CoreCompileInputs.cache
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\obj\Debug\netcoreapp3.1\Day6_CollectionAssignment.dll
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\obj\Debug\netcoreapp3.1\Day6_CollectionAssignment.pdb
+D:\assignment\project\vs\RM\Day6_CollectionAssignment\Day6_CollectionAssignment\obj\Debug\netcoreapp3.1\Day6_CollectionAssignment.genruntimeconfig.cache
