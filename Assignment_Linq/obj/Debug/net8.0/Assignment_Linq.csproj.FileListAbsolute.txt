@@ -1,0 +1,14 @@
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\bin\Debug\net8.0\Assignment_Linq.exe
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\bin\Debug\net8.0\Assignment_Linq.deps.json
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\bin\Debug\net8.0\Assignment_Linq.runtimeconfig.json
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\bin\Debug\net8.0\Assignment_Linq.dll
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\bin\Debug\net8.0\Assignment_Linq.pdb
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\obj\Debug\net8.0\Assignment_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\obj\Debug\net8.0\Assignment_Linq.AssemblyInfoInputs.cache
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\obj\Debug\net8.0\Assignment_Linq.AssemblyInfo.cs
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\obj\Debug\net8.0\Assignment_Linq.csproj.CoreCompileInputs.cache
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\obj\Debug\net8.0\Assignment_Linq.dll
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\obj\Debug\net8.0\refint\Assignment_Linq.dll
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\obj\Debug\net8.0\Assignment_Linq.pdb
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\obj\Debug\net8.0\Assignment_Linq.genruntimeconfig.cache
+C:\Users\pmuthamm\Desktop\Projects_C#\Assessments\Assignment_Linq\obj\Debug\net8.0\ref\Assignment_Linq.dll
